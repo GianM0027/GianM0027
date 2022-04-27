@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GianM0027
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning anything
+- 📫 How to reach me: gianmario0027@gmail.com
