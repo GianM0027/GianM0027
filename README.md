@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi! I’m Gian Mario — I hold a Bachelor’s in Computer Science and a Master’s in Artificial Intelligence.<br>I’m passionate about bringing deep learning to life through real-world applications, and my long-term ambition is to harness AI to push the boundaries of space exploration.
+Hi! I’m Gian Mario — I hold a Bachelor’s in Computer Science and a Master’s in Artificial Intelligence.
+<br>I’m passionate about bringing deep learning to life through real-world applications. Beyond that, I enjoy music, nature, technology, science in general, and everything that lies beyond our Terra.
 
 
 ## 🌐 Socials:
