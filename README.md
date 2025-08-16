@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! I’m Gian Mario — I hold a Bachelor’s in Computer Science and a Master’s in Artificial Intelligence.
-<br>I’m passionate about bringing deep learning to life through real-world applications. Beyond that, I enjoy music, nature, technology, science in general, and everything that lies beyond our Terra.
+<br>I’m passionate about deep learning and its real-world applications. I enjoy music and nature, and I have a strong interest in technology, science, and everything beyond our Terra.
 
 
 ## 🌐 Socials:
