@@ -8,33 +8,7 @@ Here’s a list of my main achievements:
 - I collaborated with the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/) and conducted experiments for my MSc thesis during a 4-month research stay at [UCL](https://www.ucl.ac.uk/).
 
 Have a look at some of the projects I most enjoyed working on:
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=GianM0027&repo=ppo-procgen&theme=dark" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=GianM0027&repo=Instance_Detection&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=GianM0027&repo=NLP-EFR-and-ERD-in-English-Conversations&theme=dark" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=GianM0027&repo=cactus-assistant&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+coming...
 
 
 
