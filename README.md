@@ -68,7 +68,7 @@ Have a look at some of the projects I most enjoyed working on:
 
 <table align="center">
   <td align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
     </td>
 </table>
 
