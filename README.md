@@ -7,10 +7,6 @@ Here’s a list of my main achievements:
 - I hold an MSc in Artificial Intelligence from [UniBo](https://www.unibo.it/it).
 - I collaborated with the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/) and conducted experiments for my MSc thesis during a 4-month research stay at [UCL](https://www.ucl.ac.uk/).
 
-Have a look at some of the projects I most enjoyed working on:
-coming...
-
-
 
 
 # 💻 Tech Stack:
