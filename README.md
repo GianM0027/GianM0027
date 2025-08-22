@@ -12,24 +12,24 @@ Have a look at some of the projects I most enjoyed working on:
   <tr>
     <td align="center">
       <a href="https://github.com/GianM0027/ppo-procgen">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=GianM0027&repo=ppo-procgen&theme=dark" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=GianM0027&repo=ppo-procgen&theme=dark&cache_seconds=3600" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/GianM0027/Instance_Detection">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=GianM0027&repo=Instance_Detection&theme=dark" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=GianM0027&repo=Instance_Detection&theme=dark&cache_seconds=3600" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/GianM0027/NLP-EFR-and-ERD-in-English-Conversations">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=GianM0027&repo=NLP-EFR-and-ERD-in-English-Conversations&theme=dark" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=GianM0027&repo=NLP-EFR-and-ERD-in-English-Conversations&theme=dark&cache_seconds=3600" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/GianM0027/cactus-assistant">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=GianM0027&repo=cactus-assistant&theme=dark" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=GianM0027&repo=cactus-assistant&theme=dark&cache_seconds=3600" />
       </a>
     </td>
   </tr>
