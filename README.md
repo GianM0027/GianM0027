@@ -6,6 +6,7 @@ Here’s a list of my main achievements:
 - I spent 6 months at the [University of Freiburg](https://uni-freiburg.de/en/) with the Erasmus Study+ program.  
 - I hold an MSc in Artificial Intelligence from [UniBo](https://www.unibo.it/it).
 - I collaborated with the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/) and conducted experiments for my MSc thesis during a research stay at [UCL](https://www.ucl.ac.uk/).
+- Currently enrolled in the international [SEEDS](https://www.polito.it/en/education/specializing-master-s-programmes-and-lifelong-learning/specializing-master-s-programmes/specializing-master-s-catalogue/space-exploration-and-development-systems) master program. 
 
 I have also worked on many projects, have a look at some interesting ones:
 <table align="center">
