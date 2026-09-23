@@ -13,24 +13,24 @@ I have also worked on many projects, have a look at some interesting ones:
   <tr>
     <td align="center">
       <a href="https://github.com/GianM0027/ppo-procgen">
-        <img align="center" style="margin:1rem 0.5rem" src="https://stats-read.vercel.app/api/pin/?username=GianM0027&repo=ppo-procgen&theme=dark&cache_seconds=3600" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-stats-extended.vercel.app/api/pin/?username=GianM0027&repo=ppo-procgen&theme=dark&cache_seconds=3600" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/GianM0027/Instance_Detection">
-        <img align="center" style="margin:1rem 0.5rem" src="https://stats-read.vercel.app/api/pin/?username=GianM0027&repo=Instance_Detection&theme=dark&cache_seconds=3600" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-stats-extended.vercel.app/api/pin/?username=GianM0027&repo=Instance_Detection&theme=dark&cache_seconds=3600" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/GianM0027/Rover-Trajectory-Finder">
-        <img align="center" style="margin:1rem 0.5rem" src="https://stats-read.vercel.app/api/pin/?username=GianM0027&repo=Rover-Trajectory-Finder&theme=dark&cache_seconds=3600" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-stats-extended.vercel.app/api/pin/?username=GianM0027&repo=Rover-Trajectory-Finder&theme=dark&cache_seconds=3600" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/GianM0027/cactus-assistant">
-        <img align="center" style="margin:1rem 0.5rem" src="https://stats-read.vercel.app/api/pin/?username=GianM0027&repo=cactus-assistant&theme=dark&cache_seconds=3600" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-stats-extended.vercel.app/api/pin/?username=GianM0027&repo=cactus-assistant&theme=dark&cache_seconds=3600" />
       </a>
     </td>
   </tr>
@@ -44,23 +44,23 @@ I have also worked on many projects, have a look at some interesting ones:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://stats-read.vercel.app/api?username=GianM0027&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+      <img src="https://github-stats-extended.vercel.app/api?username=GianM0027&theme=dark&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=GianM0027&theme=dark&hide_border=false" />
+      <img src="https://streak-stats.demolab.com/?user=GianM0027&theme=dark&hide_border=false" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianM0027&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GianM0027&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </td>
   </tr>
 </table>
 
-## 🔝 Top Contributed Repo
+## 📈 Contribution Activity
 <table align="center">
   <td align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=GianM0027&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GianM0027&theme=github_dark" />
     </td>
 </table>
 
@@ -79,7 +79,7 @@ I have also worked on many projects, have a look at some interesting ones:
   <tr>
     <td align="center">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gianmario0023&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gianmario0023&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gianmario0023&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="spotify-github-profile" />
       </a>
     </td>
   </tr>
