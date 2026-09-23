@@ -25,7 +25,7 @@ I have also worked on many projects, have a look at some interesting ones:
   <tr>
     <td align="center">
       <a href="[https://github.com/GianM0027/Rover-Trajectory-Finder">
-        <img align="center" style="margin:1rem 0.5rem" src="https://stats-read.vercel.app/api/pin/?username=GianM0027&repo=NLP-EFR-and-ERD-in-English-Conversations&theme=dark&cache_seconds=3600" />
+        <img align="center" style="margin:1rem 0.5rem" src="https://stats-read.vercel.app/api/pin/?username=GianM0027&repo=Rover-Trajectory-Finder&theme=dark&cache_seconds=3600" />
       </a>
     </td>
     <td align="center">
