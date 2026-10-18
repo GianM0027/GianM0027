@@ -6,7 +6,8 @@ Here’s a list of my main achievements:
 - I spent 6 months at the [University of Freiburg](https://uni-freiburg.de/en/) with the Erasmus Study+ program.  
 - I hold an MSc in Artificial Intelligence from [UniBo](https://www.unibo.it/it).
 - I collaborated with the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/) and conducted experiments for my MSc thesis during a research stay at [UCL](https://www.ucl.ac.uk/).
-- Currently enrolled in the international [SEEDS](https://www.polito.it/en/education/specializing-master-s-programmes-and-lifelong-learning/specializing-master-s-programmes/specializing-master-s-catalogue/space-exploration-and-development-systems) master program. 
+- I completed the international [SEEDS](https://www.polito.it/en/education/specializing-master-s-programmes-and-lifelong-learning/specializing-master-s-programmes/specializing-master-s-catalogue/space-exploration-and-development-systems) master program, during which I collaborated with [Thales Alenia Space](https://www.thalesaleniaspace.com/it) and the [Italian Space Agency](https://www.asi.it/).
+- I presented a paper at IAC 2026 in Antalya on multimodal deep learning for detecting lunar and Martian lava tubes, you can find the code [here](https://github.com/GianM0027/lavatube_finder) and the manuscript [here](https://www.researchgate.net/publication/415898348_End-to-End_Multimodal_Detection_of_Lunar_and_Martian_Lava_Tubes).
 
 I have also worked on many projects, have a look at some interesting ones:
 <table align="center">
