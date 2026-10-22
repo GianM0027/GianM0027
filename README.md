@@ -13,8 +13,8 @@ I have also worked on many projects, have a look at some interesting ones:
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/GianM0027/ppo-procgen">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-stats-extended.vercel.app/api/pin/?username=GianM0027&repo=ppo-procgen&theme=dark&cache_seconds=3600" />
+      <a href="https://github.com/GianM0027/lavatube_finder">
+        <img align="center" style="margin:1rem 0.5rem" src="https://github-stats-extended.vercel.app/api/pin/?username=GianM0027&repo=lavatube_finder&theme=dark&cache_seconds=3600" />
       </a>
     </td>
     <td align="center">
